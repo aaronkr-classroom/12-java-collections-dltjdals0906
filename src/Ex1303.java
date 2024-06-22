@@ -17,7 +17,7 @@ public class Ex1303 {
 		
 		// 키
 		System.out.print("Keys : ");
-		for (Intger key : str.keySet()) {
+		/* for (Intger key : str.keySet()) {
 			
 		}
 		
@@ -25,7 +25,7 @@ public class Ex1303 {
 		System.out.print("\nvalues : ");
 		for (String value : str.values()) {
 			System.out.print(value + ", ");
-		}
+		}*/
 		
 		// TreeMap
 		TreeMap<String, String> animals = new TreeMap<String, String>();
